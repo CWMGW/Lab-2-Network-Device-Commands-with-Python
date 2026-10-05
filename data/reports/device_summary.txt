@@ -1,0 +1,8 @@
+
+========================================
+       LAB 2 DEVICE SUMMARY REPORT
+========================================
+Target Device : devnetsandboxiosxec8k.cisco.com
+Device Type   : cisco_ios
+Status        : Commands successfully executed and parsed.
+========================================
